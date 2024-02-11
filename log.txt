@@ -1,0 +1,17 @@
+1707647118640: ::1: /api/user/:GET
+1707647158469: ::1: /api/users/:GET
+1707647204039: ::1: /api/users/:GET
+1707647205656: ::1: /api/users/:GET
+1707647312302: ::1: /api/user/:GET
+1707647313978: ::1: /api/user/:GET
+1707647333117: ::1: /api/user/:GET
+1707647334812: ::1: /api/user/:GET
+1707647584515: ::1: /api/user/:GET
+1707648818169 : GET : /api/user/
+1707648942289 : GET : /user
+1707648943723 : GET : /user
+1707649358988 : GET : /api/user
+1707649380113 : GET : /api/user/65c883b478d20b6cf4dc2907
+1707649538681 : PATCH : /api/user/65c883b478d20b6cf4dc2907
+1707649776324 : GET : /api/user/
+1707649791676 : DELETE : /api/user/65c884a578d20b6cf4dc2909
